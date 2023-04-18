@@ -13,4 +13,5 @@ Recreating Youtube UI using only HTML & CSS
 
 #### Note:
 > Built using HTML & CSS
-> Strengthen my understanding with CSS Grid, CSS Flexbox and CSS Position concepts.
+> 
+> Strengthen my understanding with CSS Grid, CSS Flexbox and CSS Position concepts
