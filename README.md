@@ -3,8 +3,7 @@
 
 
 
-# Youtube-Clone
-## Recreating Youtube UI using only HTML & CSS
+# Youtube-UI-Clone
 
 ![image](https://user-images.githubusercontent.com/123357802/232805331-7df6c188-190f-42fc-b97d-9142d70766ad.png)
 
