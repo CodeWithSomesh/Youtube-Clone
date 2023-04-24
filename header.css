@@ -1,0 +1,45 @@
+header {
+    height: 57px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+}
+
+
+.left-section {
+
+    display: flex;
+    width: 115px;
+}
+
+.right-section {
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 15px;
+}
+
+.hamburger-icon {
+
+    width: 22%;
+    margin-right: 25px;
+    cursor: pointer;
+}
+
+.youtube-logo {
+
+    width: 80%;
+    cursor: pointer;
+}
+
+.create-icon, .apps-icon, .notification-icon {
+
+    width: 13%;
+}
+
+.channel-pic {
+
+    height: 32px;
+}
+
