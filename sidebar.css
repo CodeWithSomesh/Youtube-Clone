@@ -1,0 +1,33 @@
+nav {
+
+    width: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    position: fixed;
+    top: 75px;
+    bottom: 0%;
+}
+
+.sidebar-icons-containers {
+
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    
+}
+
+.sidebar-icons-containers img{
+
+    width: 35%;
+}
+
+.sidebar-icons-containers p{
+
+    font-size: 10px;
+    margin-top: 8px;
+    font-family: Roboto, Arial, sans-serif;
+}
