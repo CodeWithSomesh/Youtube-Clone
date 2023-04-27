@@ -94,13 +94,12 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-right: 15px;
 }
 
 
 .create-icon, .apps-icon, .notification-icon {
 
-    width: 13%;
+    width: 48%;
     cursor: pointer;
 }
 
