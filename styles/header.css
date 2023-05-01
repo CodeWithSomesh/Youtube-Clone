@@ -1,4 +1,5 @@
 header {
+    background-color: white;
     height: 57px;
     display: flex;
     justify-content: space-between;
@@ -7,6 +8,8 @@ header {
     top: 0%;
     left: 0%;
     right: 0%;
+    border-bottom: 1px solid #dedede;
+    z-index: 99;
 }
 
 
