@@ -5,7 +5,6 @@ main {
     padding-left: 100px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    column-gap: 0px;
     row-gap: 20px;
     background-color: #f9f9f9;
 }
@@ -14,6 +13,11 @@ main {
 
     width: 320px;
     height: 300px;
+}
+
+.thumbnail {
+
+    position: relative;
 }
 
 .video-img-container {
@@ -25,6 +29,21 @@ main {
 .video-img-container img {
 
     width: 100%;
+}
+
+.time-stamp {
+
+    background-color: black;
+    color: white;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    padding: 4px;
+    border-radius: 2px;
+    position: absolute;
+    bottom: 12px;
+    right: 5px;
+    z-index: 98;
 }
 
 .video-info-container {
@@ -52,6 +71,7 @@ main {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
     line-height: 20px;
+    color: black;
 }
 
 .video-details p{
@@ -61,4 +81,8 @@ main {
     color: #606060;
     font-family: 'Roboto', sans-serif;
     
+}
+
+a {
+    text-decoration: none;
 }
