@@ -1,5 +1,5 @@
 
-#  Website Link (Left Tooltip, Youtube Icon and Channels Pics to solve)
+#  Website Link 
 https://codewithsomesh.github.io/Youtube-Clone/
 
 
