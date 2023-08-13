@@ -4,8 +4,7 @@ Link: https://codewithsomesh.github.io/Youtube-Clone/
 
 
 # Youtube UI (Design)
-![codewithsomesh github io_Youtube-Clone_](https://github.com/CodeWithSomesh/Youtube-Clone/assets/123357802/fa01aead-bbba-41b3-93bc-f8620c6f63a0)
-
+![image](https://github.com/CodeWithSomesh/Youtube-Clone/assets/123357802/0fd3fb70-3285-4f5f-bba0-3e3d1743cdf1)
 
 
 
