@@ -26,6 +26,12 @@ main {
     margin-bottom: 5px;
 }
 
+.video-img-container:hover{
+
+    filter: brightness(150%);
+    transition: opacity 0.2s;
+}
+
 .video-img-container img {
 
     width: 100%;
